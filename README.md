@@ -1,7 +1,7 @@
-## Juego de ahorcado en JAVA
+## Juego de ahorcado en JAVA (hangman game)
 
-Juego de ahorcado en donde el usuario debe ingresar letras por consola y tiene cierta cantidad de intentos.
-Si logra completar toda la palabra recibe un mensaje de felicitación mostrándole la palabra a adivinar. Si agota los intentos pierde.
+Juego de ahorcado en donde el usuario debe ingresar letras por consola para adivinar la palabra y tiene cierta cantidad de intentos.
+Si logra completar toda la palabra, recibe un mensaje de felicitación mostrándole la palabra a adivinar. Si agota los intentos, pierde.
 
 ## ¿Qué herramientas utilizamos?
 
@@ -49,4 +49,5 @@ Introduce una letra por favor:
 c
 
 ¡Felicidades! Has adivinado la palabra: inteligencia
+
 
